@@ -130,28 +130,8 @@ When I'm away from the terminal, I'm usually refining my Linux setup, experiment
 | &nbsp; | Project | Description |
 | :---: | :--- | :--- |
 | 🧠 | **AiTools** | Collection of AI-powered applications, experiments, and integrations |
-| 🌦️ | **WeatherNow** | Real-time weather app enhanced with AI capabilities |
 | 🎨 | **hyprdots-senpai** | Personal Hyprland dotfiles and Linux customization setup |
 | 📱 | **Device and Kernel trees** | Android platform tree for Redmi Note 7/7S custom ROMs |
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🔮 Currently Exploring
-
-<br>
-
-<div align="center">
-
-```text
-🧠 Agentic AI & Multi-Agent Systems       🌩️ Cloud Infrastructure & Automation
-🖥️ Self-Hosting & Homelabs                🐧 Linux Customization & Ricing
-⚙️ CI/CD Workflows                        🐳 Containerized Deployments
-🔧 Windows Wrangling                      🛡️ Privacy-Focused Infrastructure
-```
 
 </div>
 
