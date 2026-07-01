@@ -75,6 +75,6 @@
 - 👾 **Casual Gamer** - Story-rich games, anime-style open worlds, and gacha adventures.
 - 🎧 **Audiophile & Keyboard Enthusiast** - Audio gear, keyboards, and the pursuit of perfect sound.
 - 📱 **Hardware Enthusiast** - PCs, smartphones, and practical tech.
-- 🔧 **Windows Enthusiast** - Customizing Windows until it feels right.
+- 🔧 **Windows Enthusiast** - Debloating and optimizing Windows until it feels right.
 
 </div>
